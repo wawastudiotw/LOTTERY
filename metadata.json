@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Roulette Draw",
+  "description": "A dynamic lucky draw spinner with physics-based deceleration and confetti celebration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
